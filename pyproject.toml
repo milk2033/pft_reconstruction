@@ -1,0 +1,13 @@
+[project]
+name = "pft-tx-history"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "load-dotenv>=0.1.0",
+    "psycopg2-binary>=2.9.10",
+    "requests>=2.32.3",
+]
+  

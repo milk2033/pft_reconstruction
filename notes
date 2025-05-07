@@ -1,0 +1,23 @@
+r4yc85M1hwsegVGZ1pawpZPwj65SVs8PzD
+rnQUEEg8yyjrwk9FhyXpKavHyCRJM9BDMW (think this is the real issuer)
+activated on april 26 2024
+
+bithomp api token - 3a832d5e-f800-4c6f-9be4-bf5dd86c0d10
+
+2. Build day-by-day scanner Automatically process 7 days (or whole months) in a loop
+3. Save full PFT transfer details Optionally store sender/receiver/amount/date for each transfer
+4. Rewind to April 26, 2024 Start the full historical build from the true beginning
+
+https://xrpl.org/docs/tutorials/public-servers
+this might contain a full history server cluster, might be worth
+looking in to
+
+the original purpose of this project was to track daily PFT tx, to see how many
+people are using PFT
+
+maybe we could do a daily leader board? top 50 or something
+
+we also need to include checks for warnings before going on a big run
+
+track daily active addresses
+aggregate pft supply over time
